@@ -15,28 +15,34 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+<div>
+    <a href="https://www.loom.com/share/316883a6b9b5457e98dbceb32b408f83">
+      <p>Re: Loom | Free Screen & Video Recording Software | Loom - 27 January 2024 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/316883a6b9b5457e98dbceb32b408f83">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/316883a6b9b5457e98dbceb32b408f83-with-play.gif">
+    </a>
+  </div>
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
 
 - [X] Make a list of your favorite 3-5 applications and identify 2-3 features that make them your favorite app. Its okay if features repeat on different apps
 
-- DuoLingo: The streak and game functionality
-- Roku Remote: Have a remote on your phone and the access to control your TV.
-- Tetris: Moving blocks to form a puzzle
+- DuoLingo: The streak and game functionality. Dark Mode, Custom avatars. 
+- Roku Remote: Have a remote on your phone and the access to control your TV. Dark Mode option
+- Tetris: Moving blocks to form a puzzle.
 
 
-- [] Think of an app idea that you would like to build. It can be a new idea or an improvement on an existing app. Write a short paragraph describing the app and the features you would like to implement. You are not commiting to this idea, but it helps to start brain storming early on and get feedback from your peers and instructors.
+- [X] Think of an app idea that you would like to build. It can be a new idea or an improvement on an existing app. Write a short paragraph describing the app and the features you would like to implement. You are not commiting to this idea, but it helps to start brain storming early on and get feedback from your peers and instructors.
 
-I love productivity and for my capstone project I built a "Productivity System" it features a calendar, to do list, a pomodoro timer and a user log in screen. I'd love to build this site into an app. If I'm mainly thinking of a smaller idea, building a pomodoro timer would be really cool as well. Pomodoro is an effective study technique where you work in a minimum of 25 minute intervals and rest for 5 minutes. 
+I love productivity and for my capstone project I built a "Productivity System" it features a calendar, to do list, a pomodoro timer and a user login screen. I'd love to build this site into an app. If I'm mainly thinking of a smaller idea, building a pomodoro timer would be really cool as well. Pomodoro is an effective study technique where you work in a minimum of 25 minute intervals and rest for 5 minutes. 
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 
-In the beginning building the app was smooth. It was a differentfrom wjhat I was used to but the real challeng came when I had to link my button.This took me the most amount of time because I struggled and was stuckfor a long time but after taking things very slow and doing some plug and play, things started to fall into place. Figuring out my problem and seeing my button work was the best feeling. 
+In the beginning building the app was smooth. It was different from what I was used to (HTML/CSS) but the real challenge came when I had to link my button. This took me the most amount of time because I struggled and was stuckfor a long time but after taking things very slow and doing some plug and play, things started to fall into place. Figuring out my problem and seeing my button work was the best feeling. 
 
 
 ## License
