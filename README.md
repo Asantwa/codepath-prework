@@ -4,7 +4,7 @@ Submitted by: **Asantwa Smith**
 
 **IOS Background Color Randomizer** is an app that... [Allows you to see a brief bio of who I am and change the color of the background when the button is clicked] 
 
-Time spent: **10** hours spent in total
+Time spent: **8-10** hours spent in total
 
 ## Required Features
 
